@@ -6,6 +6,8 @@
 
  solution3.py: Using a Dictionary to Count all the Characters;
 
+ Counting DNA nucleotides: http://rosalind.info/problems/dna/
+
 """
 
 with open('rosalind_dna.txt', 'r') as file:

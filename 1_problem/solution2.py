@@ -6,6 +6,8 @@
 
  solution2.py: Count using the string count function;
 
+ Counting DNA nucleotides: http://rosalind.info/problems/dna/
+
 """
 
 with open('rosalind_dna.txt', 'r') as file:
