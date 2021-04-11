@@ -3,7 +3,7 @@
  Created on 11-Apr-21
  @author: Kiril Zelenkovski
 
- solution1.py: Reading fasta file, computing GC value
+ solution.py: Reading fasta file, computing GC value
 
  Computing GC Content: http://rosalind.info/problems/gc/
 

@@ -3,7 +3,7 @@
  Created on 11-Feb-21
  @author: Kiril Zelenkovski
 
- solution1.py: Basic count;
+ solution.py: Basic count;
 
  Counting DNA nucleotides: http://rosalind.info/problems/dna/
 
