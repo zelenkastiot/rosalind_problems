@@ -9,11 +9,6 @@ Problem solutions are written in *Python* 🐍, some use the [**Biopython**](htt
 
 <details><summary> <b>♟️ Problems list</b> </font> </summary><br>
 
-<p align="right">
-<img src="http://compeau.cbd.cmu.edu/wp-content/uploads/2016/08/rosalindlogo.jpg" width=220px; height=72px></img>
-</p>
-
-
 - Problem 1: **Counting DNA nucleotides**: http://rosalind.info/problems/dna/ 
 - Problem 2: **Transcribing DNA into RNA**: http://rosalind.info/problems/rna/ 
 - Problem 3: **Complementing a Strand of DNA**: http://rosalind.info/problems/revc/ 
@@ -31,7 +26,7 @@ Problem solutions are written in *Python* 🐍, some use the [**Biopython**](htt
 <details><summary> <b> 📓 Solutions </b> </font> </summary><br>
 
 Coresponding figures with solutions and their path: <br> 
-<t><t> &#8594; <u>Solution path</u>(<b>Counting DNA nucleotides</b>):  <code>../1_problem/solution.py</code> <br>
+<t><t> &#8594; <u>Solution path</u> (<b>Counting DNA nucleotides</b>):  <code>../1_problem/solution.py</code> <br>
 <t><t> &#8594; <u>Solution path</u> (<b>Transcribing DNA into RNA</b>):  <code>../2_problem/solution.py</code> <br>
 <t><t> &#8594; <u>Solution path</u> (<b>Complementing a Strand of DNA</b>): <code>../3_problem/solution.py</code> <br>
 <t><t> &#8594; <u>Solution path</u> (<b>Computing GC Content</b>): <code>../4_problem/solution.py</code> <br>
@@ -61,9 +56,10 @@ pip install biopython
 ---
 </details>
 
-
 <hr>
-<p align="center">Spring, 2021	
+<p align="center">
+<img src="http://compeau.cbd.cmu.edu/wp-content/uploads/2016/08/rosalindlogo.jpg" width=220px; height=72px></img> <br>
+Spring, 2021
 </p>
 
 
