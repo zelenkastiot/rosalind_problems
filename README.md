@@ -1,5 +1,5 @@
 # Rosalind problems
-Repo for keeping track of different solutions for Rosalind problems. Updateing repo whenever I solve a new one.
+Repo for keeping track of different solutions for Rosalind problems. Updating repo whenever I solve a new one.
 
 Problem solutions are written in *Python* 🐍, some use the [**Biopython**](https://biopython.org/) package.  
 
